@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8f2ed0e93a099344","type":"text","text":"Project Grok","x":-180,"y":-80,"width":250,"height":60,"color":"6"},
+		{"id":"e47fc88ecd27a2f4","type":"text","text":"bash / shell","x":-400,"y":-380,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"94450d320f84776a","fromNode":"8f2ed0e93a099344","fromSide":"top","toNode":"e47fc88ecd27a2f4","toSide":"bottom"}
+	]
+}

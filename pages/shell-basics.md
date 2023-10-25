@@ -14,29 +14,27 @@ A natural starting point for using a shell is *file operations* - creating, copy
 
 ### Viewing
 
-After opening a terminal, `ls` is a natural first command. `ls` lists the contents of the current directory, which in our case will usually be the [home directory](nolink) when first opening a terminal.
-
 ```bash
 ls
 ```
 
+list the contents of the current directory
+
 ![ls](../assets/ls.png)
-
-With this, we see all contents of the (current) directory: `$HOME`
-
-Another variation is this one, which uses a [flag](nolink) (the "-l" flag) to list a `l`onger version of the same contents, with more details:
 
 ```bash
 ls -l
 ```
 
-![ls-l](../assets/ls-l.png)
+Longer variation on the previous command; this one uses a [flag](nolink) (the "-l" flag) to list a `l`onger version of the same contents, with more details:
 
-You can provide `ls` a path and it will show the contents of *that* path rather than the current path / directory.
+![ls-l](../assets/ls-l.png)
 
 ```bash
 ls Apps
 ```
+
+Provide `ls` a path and it will show the contents of *that* path rather than the current path / directory.
 
 ![lsdir](../assets/ls-dir.png)
 
@@ -46,26 +44,26 @@ ls Apps
 cd {some_directory}
 ```
 
-![cd](../assets/cd.png)
-
 After changing the directory, we see that the contents reflect that change.
 
+![cd](../assets/cd.png)
 ### Creating / Copying
 
-Let's copy a file to another location, but first, let's create one. This is done with `touch {filename}`, where `{filename}` is any name we choose.
-
 ```bash
-touch example.txt
+touch {somefile}
 ```
 
+Create a file named `{somefile}`
 ![touch](../assets/touch.png)
-
-We create the file, and confirm we created it with another invocation of the `ls` command.
-
-Now, let's copy the file:
 
 ```bash
 cp example.txt Apps
 ```
 
+Copy the file to another directory (`Apps`)
+
 ![cp-1](../assets/cp-1.png)
+
+## Shortcuts for directory names, etc.
+
+There are many convenient shortcuts for common directory patterns. See [directory expansions](expansions.md#directory-expansions).

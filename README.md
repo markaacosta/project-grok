@@ -6,6 +6,8 @@
 
 Programmers, or (at minimum), computer "power-users". Emphasis is on Linux, but many things will work on MacOS, and can be done on Windows as well with some caveats (see [universality](./pages/universality.md)).
 
+For very simple operations, examples will be demonstrated without much explanation. Explanation will be offered for more complex actions.
+
 ## Reasoning
 
 In programming, problems are solved *programmatically*; we use syntax and language to solve problems at a higher level, removing tedium and repetition. And yet, when it comes to the operating system itself, many programmers engage with computers indirectly, using a GUI, mouse, and time-consuming ad-hoc actions. Armed with general programming knowledge, and some additional knowledge of how <mark>shells</mark> work, programmers can 'speak directly' to the operating system, telling it what they want done with much less hassle.

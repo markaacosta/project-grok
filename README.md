@@ -16,4 +16,9 @@ The acquisition of this knowledge can be time-consuming and challenging. This wo
 
 This work aims to arm the reader with a very *wide* set of knowledge about many powerful and interesting things that can be done on the command line. It aims to move fast, and keep knowledge clear, comprehensible, and fast-paced. It does *not* aim to be comprehensive, or provide deep knowledge of any given subject. For depth, the reader will have to consult external sources. In many instances, references to interesting additional information will be provided in the footnotes. 
 
-This work also makes no attempt at nuetraility, it is quite opinionated, and, while covering a good amount of conceptual ground, still focuses only on topics the author considers useful and interesting. 
+This work also makes no attempt at nuetraility, it is quite opinionated, and, while covering a good amount of conceptual ground, still focuses only on topics the author considers useful and interesting. It *does* aim to break down complex concepts and make them as simple as possible, with clear word choices in explanations, clear examples for each concept, and so on.
+
+# Table of Contents
+
+1. [Shell basics](./pages/shell-basics.md)
+1. Next thing

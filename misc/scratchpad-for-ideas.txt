@@ -98,6 +98,7 @@ vim, superior editing - modal-ize typing just like the shell modalizes *actions*
 -subshells
 -WORDS. how they work, how the shell attempts to understand them, etc.
 -ssh - tunneling, X display forwarding, etc.
+-replace from last command (^this^that)
 -rsync
 -globbing versus big-bro REGEX and why the latter is so important
 -how regex works differently in different tools

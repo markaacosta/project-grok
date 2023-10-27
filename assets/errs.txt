@@ -1,0 +1,1 @@
+ping: notrealbadfakestderr.com: Name or service not known

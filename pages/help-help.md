@@ -10,6 +10,14 @@ For any given command `cmd`, you can get help with that command by opening the m
 
 ![man-ls](../assets/man-ls.gif)
 
+## `apropos`
+
+If it's unclear what tool could help solve a task, `man` pages have descriptions that can be searched with `apropos`:
+
+`apropos video`
+
+![apropos](../assets/apropos.gif)
+
 ## `-h / --help` pages
 
 Some commands don't have a `man` page; as an alternative (or supplement), you can use a `help` flag. This will take different forms depending on how a command was written, but usually it's either `{cmd} -h` or `{cmd} --help`:
@@ -24,10 +32,16 @@ Notice this prints the whole help page and takes us to the bottom; we must scrol
 
 ![rg-h-less](../assets/rg-h-less.gif)
 
-## `apropos`
+## `help` {cmd} (builtins)
 
-If it's unclear what tool could help solve a task, `man` pages have descriptions that can be searched with `apropos`:
+For <mark>builtin</mark> commands (more about [bash builtins](../pages/builtins.md)), use `help` instead of `man`:
 
-`apropos video`
+TODO
 
-![apropos](../assets/apropos.gif)
+## man -K variant flag
+
+TODO
+
+## info {cmd} 
+
+TODO

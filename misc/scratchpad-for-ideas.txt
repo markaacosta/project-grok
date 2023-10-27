@@ -62,7 +62,8 @@ vim, superior editing - modal-ize typing just like the shell modalizes *actions*
 -bootstrapping / getting up and running with the shell (e.g. unattended reinstallation, dnf install *, etc.)
 -different distros - which, why, etc.
 -basic command-line patterns (cmdname -flags file|path ...)
--redirection (to stdout, err, etc.)
+-redirection (to stdout, err, etcff.)
+-bind -X / inputrc / bind -P -p -S -s etc.
 -process substitution
 -absolute paths with find and fd
 -different terminals by operating system (e.g. kitty for linux, wezterm for windows, etc.)

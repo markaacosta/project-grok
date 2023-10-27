@@ -14,55 +14,45 @@ A natural starting point for using a shell is *file operations* - creating, copy
 
 ### Viewing
 
-```bash
-ls
-```
+`ls`
 
-list the contents of the current directory
+> list the contents of the current directory
 
-![ls](../assets/ls.png)
+![ls](../assets/ls-basics.gif)
 
-```bash
-ls -l
-```
+`ls -l`
 
-Longer variation on the previous command; this one uses a [flag](nolink) (the "-l" flag) to list a `l`onger version of the same contents, with more details:
+> Longer variation on the previous command; this one uses a [flag](nolink) (the "-l" flag) to list a `l`onger version of the same contents, with more details:
 
-![ls-l](../assets/ls-l.png)
+![ls-l](../assets/ls-l.gif)
 
-```bash
-ls Apps
-```
+`ls Apps`
 
-Provide `ls` a path and it will show the contents of *that* path rather than the current path / directory.
+> Provide `ls` a path and it will show the contents of *that* path rather than the current path / directory.
 
-![lsdir](../assets/ls-dir.png)
+![lsdir](../assets/ls-dir.gif)
 
 ### Changing directories
 
-```bash
-cd {some_directory}
-```
+`cd {some_directory}`
 
-After changing the directory, we see that the contents reflect that change.
+> After changing the directory, we see that the contents reflect that change.
 
-![cd](../assets/cd.png)
+![cd](../assets/cd.gif)
+
 ### Creating / Copying
 
-```bash
-touch {somefile}
-```
+`touch {somefile}`
 
-Create a file named `{somefile}`
-![touch](../assets/touch.png)
+> Create a file named `{somefile}`
 
-```bash
-cp example.txt Apps
-```
+![touch](../assets/touch.gif)
 
-Copy the file to another directory (`Apps`)
+`cp example.txt Apps`
 
-![cp-1](../assets/cp-1.png)
+> Copy the file to another directory (`Apps`)
+
+![cp-1](../assets/cp-to-another.gif)
 
 ## Shortcuts for directory names, etc.
 

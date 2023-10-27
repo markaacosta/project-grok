@@ -24,6 +24,10 @@ Notice this prints the whole help page and takes us to the bottom; we must scrol
 
 ![rg-h-less](../assets/rg-h-less.gif)
 
-poo
+## `apropos`
 
-![poo](../assets/poo.gif)
+If it's unclear what tool could help solve a task, `man` pages have descriptions that can be searched with `apropos`:
+
+`apropos video`
+
+![apropos](../assets/apropos.gif)

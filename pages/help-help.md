@@ -8,7 +8,7 @@ For any given command `cmd`, you can get help with that command by opening the m
 
 `man ls`
 
-![man-ls](../assets/man-ls.png)
+![man-ls](../assets/man-ls.gif)
 
 ## `-h / --help` pages
 
@@ -16,16 +16,14 @@ Some commands don't have a `man` page; as an alternative (or supplement), you ca
 
 `rg -h`
 
-![rg-h](../assets/rg-h.png)
+![rg-h](../assets/rg-h.gif)
 
 Notice this prints the whole help page and takes us to the bottom; we must scroll up to the top to read from there. To make this easier, we'll open it in a pager like `less` instead, then move up and down with arrow keys:
 
 `rg -h | less`
 
-![rg-h-less](../assets/rg-h-less.mov)
+![rg-h-less](../assets/rg-h-less.gif)
 
-HERE
+poo
 
-![thing](../assets/rg-h-less.cast)
-
-![finally](../assets/thing.gif)
+![poo](../assets/poo.gif)

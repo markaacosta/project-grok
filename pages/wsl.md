@@ -5,3 +5,7 @@
 For users that prefer (or must use) Windows, WSL allows a solid out-of-the-box Linux experience, with all bells and whistles.
 
 ![wsl](../assets/wsl.webp)
+
+## Recommended Setup
+
+TODO (shortcuts, easy access via file explorer, how to back things up, etc.)

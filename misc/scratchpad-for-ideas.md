@@ -20,10 +20,11 @@
 - [ ] different terminals by operating system (e.g. kitty for linux, wezterm for windows, etc.)
 - [x] the $PATH - what, why, etc.
 - [ ] bash - why bash (uniquitous)
-- [ ] wsl (praise be)
+- [x] wsl (praise be)
 - [x] job control / process management (fg / bg / disown / etc.)
 - [x] aliases
 - [x] sudo / su
+- [ ] bashc emacs / 'modifier' shortcuts to delete / move at word boundaries / etc.
 - [ ] history - conventional, and interactive
 - [ ] ch{mod,own}, permissions, etc.
 - [x] pipes

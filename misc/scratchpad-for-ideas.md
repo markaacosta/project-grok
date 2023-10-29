@@ -3,15 +3,18 @@
 - [x] less pager and how to navigate (for man pages, etc.)
 - [x] globbing / brace expansion
 - [ ] why do things on the terminal?
-- [ ] vim / neovim - why, how it all works, etc.
-- [ ] vim configs - "IDE" stuff
+- [x] modal editing
+- [ ] vim / neovim
+- [x] vim configs - "IDE" stuff
 - [ ] scripting - how to write, test, debug scripts, etc.
 - [ ] scripting - practical examples
 - [ ] bootstrapping / getting up and running with the shell (e.g. unattended reinstallation, dnf install *, etc.)
 - [ ] different distros - which, why, etc.
+- [ ] `at` command
+- [ ] `cron`
 - [x] basic command-line patterns (cmdname -flags file|path ...)
 - [x] redirection (to stdout, err, etcff.)
-- [ ] bind -X / inputrc / bind -P -p -S -s etc.
+- [x] bind -X / inputrc / bind -P -p -S -s etc.
 - [x] process substitution
 - [x] absolute paths with find and fd
 - [ ] different terminals by operating system (e.g. kitty for linux, wezterm for windows, etc.)

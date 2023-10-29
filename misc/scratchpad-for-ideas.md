@@ -50,9 +50,9 @@
 - [ ] 'test' builtin
 - [ ] subshells
 - [ ] WORDS. how they work, how the shell attempts to understand them, etc.
-- [ ] ssh - tunneling, X display forwarding, etc.
-- [ ] replace from last command (^this^that)
-- [ ] rsync
+- [x] ssh - tunneling, X display forwarding, etc.
+- [x] replace from last command (^this^that)
+- [x] rsync
 - [ ] globbing versus big-bro REGEX and why the latter is so important
 - [ ] how regex works differently in different tools
 - [ ] regex basics (this guide covers EVERYTHING i know / value with medium detail, it is expected that reader go elsewhere for more information on a given thing. and often, i'll link a good resource or two as section footnotes)

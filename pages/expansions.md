@@ -44,14 +44,40 @@ is the same as:
 
 ## Directory Expansions `.` `..`
 
->the current directory
-
 `.`
+
+>the current directory
 
 ![curr-dir](../assets/curr-dir.png)
 
->the directory above the current one; its parent directory
-
 `..`
 
+>the directory above the current one; its parent directory
+
 ![dir-expand-dot-dot](../assets/dir-expand-dot-dot.png)
+
+## History Expansions
+
+Some useful history expansions:
+
+### quick replacement
+
+> `^{that}^{this}`, where `{that}` is text from the prior command, and `{this}` is what it will be replaced with.
+
+![quick-replace](../assets/quick-replace.gif)
+
+### previous command
+
+`!!`
+
+> run the previous command again; for instance, of you forget sudo:
+
+![prev-command](../assets/prev-command.gif)
+
+### last argument of previous command
+
+`!$`
+
+> use last argument again with a separate command; a very common pattern
+
+![prev-arg](../assets/prev-arg.gif)

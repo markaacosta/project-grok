@@ -1,0 +1,4 @@
+{"version": 2, "width": 148, "height": 33, "timestamp": 1698623202, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.005585, "o", "/home/marka/file1.txt\r\n"]
+[0.006043, "o", "/home/marka/file2.txt\r\n"]
+[0.006683, "o", "/home/marka/file3.txt\r\n"]

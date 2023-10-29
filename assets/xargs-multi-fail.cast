@@ -1,0 +1,7 @@
+{"version": 2, "width": 148, "height": 33, "timestamp": 1698624126, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[1.164309, "o", "find * -type f -iname \"*.txt\" | xargs cp ./new_dir/\u001b[27m"]
+[2.686562, "o", "\u0007\rfind * -type f -iname \"*.txt\" | xargs cp ./new_dir/"]
+[3.96381, "o", "\r\n\u001b[?2004l\r"]
+[3.989813, "o", "cp: target 'file5.txt': Not a directory\r\n"]
+[3.991454, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public\u0007> "]
+[6.392333, "o", "\u001b[?2004l\r\r\nexit\r\n"]

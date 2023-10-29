@@ -1,0 +1,12 @@
+{"version": 2, "width": 148, "height": 33, "timestamp": 1698627097, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.355371, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public/deeper\u0007> "]
+[0.939661, "o", "l"]
+[1.028275, "o", "s"]
+[1.23849, "o", "\r\n\u001b[?2004l\r"]
+[1.275866, "o", " file two.txt\r\n file_one.txt\r\n file_three.txt\r\n xargs-issue-spaces-in-filename.cast\r\n"]
+[1.284033, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public/deeper\u0007> "]
+[2.857223, "o", "find * -maxdepth 1 -type f -iname \"*.txt\" | xargs readlink -f\u001b[27m"]
+[3.774066, "o", "\r\u001b[C\u001b[Cfind * -maxdepth 1 -type f -iname \"*.txt\" | xargs readlink -f\r\n\u001b[?2004l\r"]
+[3.782753, "o", "/home/marka/Desktop/temp/Public/deeper/file_one.txt\r\n/home/marka/Desktop/temp/Public/deeper/file_three.txt\r\n/home/marka/Desktop/temp/Public/deeper/file\r\n/home/marka/Desktop/temp/Public/deeper/two.txt\r\n"]
+[3.785256, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public/deeper\u0007> "]
+[6.010815, "o", "\u001b[?2004l\r\r\nexit\r\n"]

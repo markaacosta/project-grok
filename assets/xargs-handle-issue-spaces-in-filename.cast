@@ -1,0 +1,9 @@
+{"version": 2, "width": 148, "height": 24, "timestamp": 1698736794, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.355888, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public/deeper\u0007> "]
+[1.744507, "o", "find * -maxdepth 1 -type f -iname \"*.txt\" | xargs -I {} readlink -f \"{}\"\u001b[27m"]
+[3.455306, "o", "\r\u001b[C\u001b[Cfind * -maxdepth 1 -type f -iname \"*.txt\" | xargs -I {} readlink -f \"{}\"\r\n\u001b[?2004l\r"]
+[3.470049, "o", "/home/marka/Desktop/file_one.txt\r\n"]
+[3.471, "o", "/home/marka/Desktop/file_three.txt\r\n"]
+[3.471899, "o", "/home/marka/Desktop/file two.txt\r\n"]
+[3.473789, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public/deeper\u0007> "]
+[5.213954, "o", "\u001b[?2004l\r\r\nexit\r\n"]

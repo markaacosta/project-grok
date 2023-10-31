@@ -1,0 +1,9 @@
+{"version": 2, "width": 148, "height": 24, "timestamp": 1698750034, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.344877, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public/deeper\u0007> "]
+[1.780684, "o", "declare -A my_array; my_array=([one]=\"bash\" [two]=\"is\" [three]=\"fun\"); for i in \"${!my_array[@]}\"; do echo \"key : $i\"; echo \"value: ${my_array[$i]}[7m\"; done\u001b[27m"]
+[2.590518, "o", "\u001b[A\r\u001b[C\u001b[Cdeclare -A my_array; my_array=([one]=\"bash\" [two]=\"is\" [three]=\"fun\"); for i in \"${!my_array[@]}\"; do echo \"key : $i\"; echo \"value: ${my_array[$i]}\"; done\r\n\u001b[?2004l\r"]
+[2.618661, "o", "key : two\r\nvalue: is\r\n"]
+[2.618728, "o", "key : three\r\nvalue: fun\r\n"]
+[2.618827, "o", "key : one\r\nvalue: bash\r\n"]
+[2.620486, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public/deeper\u0007> "]
+[4.227257, "o", "\u001b[?2004l\r\r\nexit\r\n"]

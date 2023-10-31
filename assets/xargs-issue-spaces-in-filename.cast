@@ -7,6 +7,6 @@
 [1.284033, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public/deeper\u0007> "]
 [2.857223, "o", "find * -maxdepth 1 -type f -iname \"*.txt\" | xargs readlink -f\u001b[27m"]
 [3.774066, "o", "\r\u001b[C\u001b[Cfind * -maxdepth 1 -type f -iname \"*.txt\" | xargs readlink -f\r\n\u001b[?2004l\r"]
-[3.782753, "o", "/home/marka/Desktop/temp/Public/deeper/file_one.txt\r\n/home/marka/Desktop/temp/Public/deeper/file_three.txt\r\n/home/marka/Desktop/temp/Public/deeper/file\r\n/home/marka/Desktop/temp/Public/deeper/two.txt\r\n"]
+[3.782753, "o", "/home/marka/Desktop/file_one.txt\r\n/home/marka/Desktop/file_three.txt\r\n/home/marka/Desktop/file\r\n/home/marka/Desktop/two.txt\r\n"]
 [3.785256, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public/deeper\u0007> "]
 [6.010815, "o", "\u001b[?2004l\r\r\nexit\r\n"]

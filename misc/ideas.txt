@@ -1,0 +1,73 @@
+---
+
+goal:
+
+create a live, version-controlled, (semi) interactive repository of knowledge on:
+
+-bash / terminal / shell
+
+-linux / modern unix
+
+-scripting
+
+-anything that relates to *nix and terminal that is useful
+
+------
+
+-learn markdown
+
+-learn github flavor of markdown
+
+-decide how to approach the overall project meta (github markdown? obsidian but hosted on github somehow? some third thing?)
+
+-mind-map the things you'll cover
+
+-start writing!
+
+------
+
+i want:
+
+-colors / syntax highlighting
+
+-links / whole thing should be zettelkasten-like
+
+-graded - i want to start off extremely simple, absolute basics, and take someone entirely through all the way to complex one-liners with fzf / expansion, etc.
+
+-opinionated - make it the way you want, emphasize what *you* think is cool / useful!
+
+-screenshots and / or gifs, screencasts from that one site, etc.
+
+-whole thing should be searchable somehow right on github (via 'files' or something else, links, etc.)
+
+------
+
+my workflow:
+
+-markdown / live preview
+
+-vim typing / editing
+
+-as standard in the markdown style as possible
+
+-github actions / hooks as are useful
+
+-live hosting for obsidian, of you go that route
+
+-a way to publish releases, hide working branches, etc.
+
+--------------------------------------------------------------------------------
+
+general overview pattern for information:
+
+reasoning - 'why' of linux, terminal, etc.
+
+shell basics - globbing, cp, mv, etc.
+
+editing with nano
+
+interactive - fzf, etc.
+
+vim, superior editing - modal-ize typing just like the shell modalizes *actions* we perform on a computer
+
+------

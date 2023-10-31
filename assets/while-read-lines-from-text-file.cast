@@ -1,0 +1,8 @@
+{"version": 2, "width": 148, "height": 24, "timestamp": 1698743070, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.335768, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/dev/markdown/project-grok/assets\u0007> "]
+[1.137521, "o", "echo -e \"this\\nis\\nfun\" > file.txt; while read -r line; do echo \"$line\"; done < file.txt\u001b[27m"]
+[1.916172, "o", "\r\u001b[C\u001b[Cecho -e \"this\\nis\\nfun\" > file.txt; while read -r line; do echo \"$line\"; done < file.txt\r\n\u001b[?2004l\r"]
+[1.944606, "o", "this\r\n"]
+[1.944746, "o", "is\r\nfun\r\n"]
+[1.946467, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/dev/markdown/project-grok/assets\u0007> "]
+[3.076858, "o", "\u001b[?2004l\r\r\nexit\r\n"]

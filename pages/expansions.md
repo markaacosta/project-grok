@@ -48,13 +48,13 @@ is the same as:
 
 >the current directory
 
-![curr-dir](../assets/curr-dir.png)
+![curr-dir](../assets/curr-dir.gif)
 
 `..`
 
 >the directory above the current one; its parent directory
 
-![dir-expand-dot-dot](../assets/dir-expand-dot-dot.png)
+![dir-expand-dot-dot](../assets/dir-expand-dot-dot.gif)
 
 ## History Expansions
 

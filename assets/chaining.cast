@@ -1,0 +1,8 @@
+{"version": 2, "width": 148, "height": 24, "timestamp": 1698744253, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.37344, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/dev/markdown/project-grok\u0007> "]
+[0.985865, "o", "echo \"starting...\" && sleep 3 && echo \"finishing...\"\u001b[27m"]
+[1.701849, "o", "\r\u001b[C\u001b[Cecho \"starting...\" && sleep 3 && echo \"finishing...\"\r\n\u001b[?2004l\r"]
+[1.731708, "o", "starting...\r\n"]
+[4.733846, "o", "finishing...\r\n"]
+[4.737258, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/dev/markdown/project-grok\u0007> "]
+[6.740787, "o", "\u001b[?2004l\r\r\nexit\r\n"]

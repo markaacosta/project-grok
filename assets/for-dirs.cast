@@ -1,0 +1,7 @@
+{"version": 2, "width": 148, "height": 24, "timestamp": 1698741611, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.344593, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public/deeper\u0007> "]
+[1.526029, "o", "for file in */; do echo $file; done\u001b[27m"]
+[2.633961, "o", "\r\u001b[C\u001b[Cfor file in */; do echo $file; done\r\n\u001b[?2004l\r"]
+[2.666302, "o", "dir1/\r\ndir2/\r\n"]
+[2.667965, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public/deeper\u0007> "]
+[4.346805, "o", "\u001b[?2004l\r\r\nexit\r\n"]

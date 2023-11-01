@@ -7,3 +7,11 @@ By convention, returning with `0` indicates success, and all other values indica
 ## `exit` vs. `return` keyword
 
 Both keywords pass execution back to the caller; however, `return` should be used when merely leaving a *function*, whereas `exit` is used for leaving a *script* entirely.
+
+## Checking an Exit Code
+
+Immediately after running a command, run:
+
+`echo $?`
+
+> `$?` is the variable that holds the exit code

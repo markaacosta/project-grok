@@ -37,5 +37,7 @@ TODO
 ### for *i in range*
 
 > Python-style for loops, for simple 'loop N times', with or without the use of said N
+>
+> in this example, `$(seq 1 10)` is an expansion type called [command substitution](expansions.md#command-substitution), that first generates the numbers 1-10, *then* allows us to loop across them (in this case, we merely print the numbers as we loop them)
 
 ![for-i-in-range](../assets/for-i-in-range.gif)

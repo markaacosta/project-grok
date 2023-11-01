@@ -2,7 +2,7 @@
 
 ## What Is `fzf` / why `fzf`?
 
-[fzf](https://github.com/junegunn/fzf) is a widely-used, fast, and powerful interactive unix filter; like with an interactive filter, we insert fzf between pipes and subshells in order to make arbitrary selections before the rest of a command (or chain of commands) is interpreted.
+[fzf](https://github.com/junegunn/fzf) is a widely-used, fast, and powerful interactive unix filter; like with an interactive filter, we insert fzf between [pipes](pipes.md) and [subshells](subshells.md) in order to make arbitrary selections before the rest of a command (or chain of commands) is interpreted.
 
 There are other unix filters like [fzy](https://github.com/jhawthorn/fzy) and [pick](https://github.com/mptre/pick); why are we focusing on `fzf`? `fzf` is:
 
@@ -26,11 +26,14 @@ The power of filters is that we can select the items *interactively* after we've
 
 ## More examples of how to use fuzzy pickers
 
-### fzf in a subshell
+### fzf in a [subshell](subshells.md)
 
-`for file in $(fzf); do file "$file"; done`
+```bash
+for file in $(find * -maxdepth 0 -type f | fzf); do file "$file"; done
+```
 
 TODO - more examples
+![fzf-in-subshell](../assets/fzf-in-subshell.gif)
 
 ## Standard caution for handling shell expansion(s)
 

@@ -60,13 +60,14 @@
 - [ ] modern *nix (fg, rg)
 - [ ] quality-of-life - fzf, tldr, etc.
 - [ ] tui apps - why, when / use cases, good tools
-- [ ] sed / sd
+- [x] sed
+- [ ] sd
 - [ ] fzf - the hidden / extra stream (technically a unix filter)
 - [ ] gnome / dconf / etc.
 - [ ] package managers / how they work in general
 - [ ] comparison operators as short-circuits
-- [ ] 'test' builtin
-- [ ] subshells
+- [x] 'test' builtin
+- [x] subshells
 - [x] WORDS. how they work, how the shell attempts to understand them, etc.
 - [ ] globbing versus big-bro REGEX and why the latter is so important
 - [ ] how regex works differently in different tools

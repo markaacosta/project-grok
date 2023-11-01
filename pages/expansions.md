@@ -1,4 +1,4 @@
-# Shell Expansions
+# Shell Expansions and Substitutions
 
 ## Brace Expansions `{}`
 
@@ -16,7 +16,7 @@ Braces can expand both arbitrary tokens and numeric sequences:
 
 ![touch-arbitrary-tokens](../assets/touch-arbitrary-tokens.gif)
 
-### numeric sequences
+### Numeric Sequences Expansions
 
 Braces can expand a sequence of type `{x..y[..incr]}`, where `x` and `y` are integers or letters, and `incr` is an (optiona) increment integer value. For instance:
 
@@ -81,3 +81,7 @@ Some useful history expansions:
 > use last argument again with a separate command; a very common pattern
 
 ![prev-arg](../assets/prev-arg.gif)
+
+## Command Substitution
+
+If a [subshell](subshells.md) construct is preceeded by `$`, it becomes subject to `command substitution`; under these conditions, the subshell is run first, and its output replaces the command itself. This highly useful pattern allows completion expressions to become subexpressions for the main shell scope (see an [example](for.md#for-i-in-range)).

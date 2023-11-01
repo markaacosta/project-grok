@@ -1,0 +1,8 @@
+{"version": 2, "width": 117, "height": 24, "timestamp": 1698839642, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.402316, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/dev/markdown/project-grok/assets\u0007> "]
+[1.31806, "o", "test 5 -gt 3 && echo yes\u001b[27m"]
+[2.727356, "o", "\r\u001b[C\u001b[Ctest 5 -gt 3 && echo yes\r\n"]
+[2.727419, "o", "\u001b[?2004l\r"]
+[2.74719, "o", "yes\r\n"]
+[2.749287, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/dev/markdown/project-grok/assets\u0007> "]
+[5.007316, "o", "\u001b[?2004l\r\r\nexit\r\n"]

@@ -1,0 +1,11 @@
+{"version": 2, "width": 117, "height": 24, "timestamp": 1698826624, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.403589, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public/greppie\u0007> "]
+[1.699281, "o", "grep -r \".*ex.*sit.*non\" .\u001b[27m"]
+[2.817783, "o", "\r\u001b[C\u001b[Cgrep -r \".*ex.*sit.*non\" .\r\n\u001b[?2004l\r"]
+[2.871057, "o", "\u001b[35m\u001b[K./file3.txt\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[01;31m\u001b[KOccaecat dolor enim sint dolor exercitation nostrud ipsum proident nulla reprehenderit sit non\u001b[m\u001b[K.\r\n\u001b[35m\u001b[K./file3.txt\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[01;31m\u001b[KSit aliquip deserunt dolore magna labore excepteur sit non\u001b[m\u001b[K occaecat consequat.\r\n"]
+[2.87161, "o", "\u001b[35m\u001b[K./file13.txt\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[01;31m\u001b[KQui deserunt exercitation velit nulla sit non commodo deserunt Lorem non\u001b[m\u001b[K occaecat voluptate.\r\n\u001b[35m\u001b[K./file14.txt\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[01;31m\u001b[KId exercitation in consequat sint ullamco nulla sit occaecat sint ipsum non\u001b[m\u001b[K.\r\n"]
+[2.872024, "o", "\u001b[35m\u001b[K./file21.txt\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[01;31m\u001b[KProident ex dolor deserunt aliqua eu proident mollit aliquip sit do sit minim non\u001b[m\u001b[K ea.\r\n"]
+[2.872515, "o", "\u001b[35m\u001b[K./file27.txt\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[01;31m\u001b[KSunt excepteur ut sit adipisicing laborum sit aute nulla non\u001b[m\u001b[K ipsum laborum.\r\n"]
+[2.872722, "o", "\u001b[35m\u001b[K./file31.txt\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[01;31m\u001b[KTempor occaecat magna irure consequat ex sit aute ad eu aliqua pariatur non\u001b[m\u001b[K sint.\r\n"]
+[2.881682, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public/greppie\u0007> "]
+[4.183039, "o", "\u001b[?2004l\r\r\nexit\r\n"]

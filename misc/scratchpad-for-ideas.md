@@ -74,6 +74,9 @@
 - [x] common cases for for loop (for FILES, for DIRS, etc.)
 - [x] internal field separator, when / how to remove, etc.
 - [x] command chaining = semicolon versus hard AND
+- [ ] perl(rename)
+- [ ] s/that/this/[g] perl pattern (prename, sed, etc.)
+- [ ] y/that_range/this_range/[g] perl pattern (sed, tr, etc.)
 - [ ] TMUX!
 - [ ] soft (and hard) links
 - [ ] shortcircuiting with `&&` operator

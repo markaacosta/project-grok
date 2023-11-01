@@ -1,0 +1,7 @@
+{"version": 2, "width": 143, "height": 24, "timestamp": 1698832601, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.411925, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public/greppie\u0007> "]
+[1.688916, "o", sed \"s/replaceme/changed/g\" file1.txt | grep changed\u001b[27m"]
+[2.325457, "o", "\r\u001b[C\u001b[Csed \"s/replaceme/changed/g\" file1.txt | grep changed\r\n\u001b[?2004l\r"]
+[2.355651, "o", "Eiusmod cupidatat \u001b[01;31m\u001b[Kchanged\u001b[m\u001b[K culpa minim consectetur Lo\u001b[01;31m\u001b[Kchanged\u001b[m\u001b[Krem cillum Lorem consectetur.\r\nIn minim \u001b[01;31m\u001b[Kchanged\u001b[m\u001b[K reprehenderit laboris nisi minim esse.\u001b[01;31m\u001b[Kchanged\u001b[m\u001b[K\r\nReprehenderit pariatur consectetur cupidatat incididunt amet molli\u001b[01;31m\u001b[Kchanged\u001b[m\u001b[Kt et aliqua do enim sunt.\r\nQui deserunt occaeca \u001b[01;31m\u001b[Kchanged\u001b[m\u001b[Kt ullamco et tempor aliquip.\r\nMinim el\u001b[01;31m\u001b[Kchanged\u001b[m\u001b[Kit exercitation elit ea incididunt commodo mollit cupidatat laborum.\r\n"]
+[2.357324, "o", "\u001b[?2004h\u001b]0;marka@alienware: ~/Desktop/temp/Public/greppie\u0007> "]
+[3.997087, "o", "\u001b[?2004l\r\r\nexit\r\n"]

@@ -38,23 +38,24 @@ then type the command to run
 
 #### create new window
 
-![asdf](../assets/try.mp4)
+![tmux-new](../assets/tmux-new.gif)
 
 #### kill window
 
-
+![tmux-close](../assets/tmux-close.gif)
 
 #### create vertical split
 
-
+![tmux-v-split](../assets/tmux-v-split.gif)
 
 #### create horizontal split
 
-
+![tmux-h-split](../assets/tmux-h-split.gif)
 
 #### switch window / page (interactively)
 
-
+![tmux-search-interactive](../assets/tmux-search-interactive.gif)
 
 #### switch window (by index)
 
+![tmux-search-index](../assets/tmux-search-by-index.gif)

@@ -19,7 +19,7 @@ let's decompose the command:
 > - `find .` - find in the current directory
 > - `-maxdepth 1` - prevent `find` from recursing, its [default behavior](find.md#find---recursive-by-default).
 > - `-type d` - only find items that are of type *directory*
->   - you can find other types too; `f` for (regular) *file*, `l` for (symbolic) *link*, etc.
+>   - you can find other types too; `f` for (regular) *file*, `l` for ([symbolic](links.md)) *link*, etc.
 > - `-exec {some_cmd} {} \;` - run `{some_cmd}` once for each found item
 
 ## find - recursive by default

@@ -1,0 +1,22 @@
+standard pattern is:
+
+write up markdown
+generate *.cast file with asciinema, demo-ing some process
+convert to *.gif with gifasciinema function
+import gif
+
+---
+
+if using fzf (or maybe other TUI / 'visual' things), you must instead:
+
+use a terminal with the exact dimensions you want (in this case, 52x18)
+record the *.cast file
+use 'gifasciinema-no-dimensions' instead of 'gifasciinema'
+
+---
+
+for demos with KEYSTROKES:
+
+spin up 'screenkey'
+record native *.webm video
+convert to gif with webm2gif function

@@ -78,11 +78,11 @@
 - [ ] perl(rename)
 - [ ] s/that/this/[g] perl pattern (prename, sed, etc.)
 - [ ] y/that_range/this_range/[g] perl pattern (sed, tr, etc.)
-- [ ] TMUX!
+- [x] TMUX!
 - [ ] soft (and hard) links
 - [ ] shortcircuiting with `&&` operator
 - [ ] vim mode in shell!
-- [ ] elegant ways to move around (fuzzy dirs, fuzzy files, etc.)
-- [ ] tui file managers - when ad-hoc is (temporarily better)
+- [x] elegant ways to move around (fuzzy dirs, fuzzy files, etc.)
+- [x] tui file managers - when ad-hoc is (temporarily better)
 - [ ] conditionals
 - [ ] comparison operators

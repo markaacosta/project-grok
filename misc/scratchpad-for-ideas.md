@@ -33,56 +33,46 @@
 - [x] bash arrays and dicts
 - [x] loops
 - [x] while (using it for reading lines, NOT for loops, etc.)
-- [ ] intro / forward (write at the end) - why you wrote this, how it's used, what it is and isn't, etc. make sure people know that it's *opinionated*, your view and good and useful tools and approaches in standard unices
-- [ ] why do things on the terminal?
-- [ ] vim / neovim
-- [ ] scripting - how to write, test, debug scripts, etc.
-- [ ] scripting - practical examples
-- [ ] bootstrapping / getting up and running with the shell (e.g. unattended reinstallation, dnf install *, etc.)
-- [ ] different distros - which, why, etc.
-- [ ] `at` command
-- [ ] `cron`
-- [ ] different terminals by operating system (e.g. kitty for linux, wezterm for windows, etc.)
-- [ ] bash - why bash (uniquitous)
-- [ ] bashc emacs / 'modifier' shortcuts to delete / move at word boundaries / etc.
+- [x] intro / forward (write at the end) - why you wrote this, how it's used, what it is and isn't, etc. make sure people know that it's *opinionated*, your view and good and useful tools and approaches in standard unices
 - [x] history - conventional, and interactive
-- [ ] ch{mod,own}, permissions, etc.
-- [ ] common tools and (OR?) core utils - will be HUGE (tac, uniq, ......)
-- [ ] builtins
-- [ ] critical shell shortcuts (bring last arg, etc., comment line, etc.)
-- [ ] shell interactive features (edit in $EDITOR before run, etc.)
 - [x] shell expansion and how to handle it (double quotes, escaped chars, etc)
-- [ ] history expansion (last arg, etc.)
-- [ ] (leveraging) completions
-- [ ] dotfiles and how they work (bashrc, etc, your pattern for managing, etc.)
-- [ ] chezmoi
-- [ ] terminal flair (custom prompt, etc)
-- [ ] modern *nix (fg, rg)
-- [ ] quality-of-life - fzf, tldr, etc.
-- [ ] tui apps - why, when / use cases, good tools
+- [x] tui apps - why, when / use cases, good tools
 - [x] sed
-- [ ] sd
-- [ ] fzf - the hidden / extra stream (technically a unix filter)
-- [ ] gnome / dconf / etc.
-- [ ] package managers / how they work in general
-- [ ] comparison operators as short-circuits
+- [x] fzf - the hidden / extra stream (technically a unix filter)
 - [x] 'test' builtin
 - [x] subshells
 - [x] WORDS. how they work, how the shell attempts to understand them, etc.
-- [ ] globbing versus big-bro REGEX and why the latter is so important
-- [ ] how regex works differently in different tools
-- [ ] regex basics (this guide covers EVERYTHING i know / value with medium detail, it is expected that reader go elsewhere for more information on a given thing. and often, i'll link a good resource or two as section footnotes)
 - [x] common cases for for loop (for FILES, for DIRS, etc.)
 - [x] internal field separator, when / how to remove, etc.
 - [x] command chaining = semicolon versus hard AND
+- [x] TMUX!
+- [x] soft (and hard) links
+- [x] elegant ways to move around (fuzzy dirs, fuzzy files, etc.)
+- [x] tui file managers - when ad-hoc is (temporarily better)
+- [ ] vim / neovim / vim in shell / etc.
+- [ ] scripting - how to write, test, debug scripts, etc.
+- [ ] scripting - practical examples
+- [ ] bootstrapping / getting up and running with the shell (e.g. unattended reinstallation, dnf install *, etc.)
+- [ ] `at` command
+- [ ] `cron`
+- [ ] bashc emacs / 'modifier' shortcuts to delete / move at word boundaries / etc.
+- [ ] ch{mod,own}, permissions, etc.
+- [ ] builtins
+- [ ] critical shell shortcuts (bring last arg, etc., comment line, etc.)
+- [ ] shell interactive features (edit in $EDITOR before run, etc.)
+- [ ] completions
+- [ ] dotfiles and how they work (bashrc, etc, your pattern for managing, etc.)
+- [ ] chezmoi
+- [ ] terminal flair (custom prompt, etc)
+- [ ] modern *nix (fg, rg, sd)
+- [ ] tldr
+- [ ] gnome / dconf / etc.
+- [ ] package managers / how they work in general
+- [ ] regex basics (this guide covers EVERYTHING i know / value with medium detail, it is expected that reader go elsewhere for more information on a given thing. and often, i'll link a good resource or two as section footnotes)
 - [ ] perl(rename)
 - [ ] s/that/this/[g] perl pattern (prename, sed, etc.)
 - [ ] y/that_range/this_range/[g] perl pattern (sed, tr, etc.)
-- [x] TMUX!
-- [ ] soft (and hard) links
 - [ ] shortcircuiting with `&&` operator
-- [ ] vim mode in shell!
-- [x] elegant ways to move around (fuzzy dirs, fuzzy files, etc.)
-- [x] tui file managers - when ad-hoc is (temporarily better)
 - [ ] conditionals
 - [ ] comparison operators
+- [ ] tr
